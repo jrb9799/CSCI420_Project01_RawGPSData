@@ -5,4 +5,6 @@
 
 function project_01_main
 
+    data = readmatrix("Some_Example_GPS_Files");
+    disp(data);
 end
